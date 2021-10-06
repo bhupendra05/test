@@ -1,0 +1,42 @@
+{
+    "data":[
+        {
+            "date":"December 2020",
+            "Due":"9,240",
+            "Monthly maintainance Charges":"2,500",
+            "lift Repairing charges":"5,240",
+            "Old Due":"1,500",
+            "Total Charges":"9,240",
+            "Receipt":"",
+            "Paid":"",
+            "Time":""
+        },
+        {
+            "date":"November 2020",
+            "Due":"9,240",
+            "Monthly maintainance Charges":"2,500",
+            "lift Repairing charges":"",
+            "Old Due":"1,500",
+            "Total Charges":"9,240",
+            "Receipt":"DK0082538",
+            "Paid":"1,000",
+            "Time":"12 Nov 2020 3.25PM"
+
+        },
+        {
+            "date":"December 2020",
+            "Due":"9,240",
+            "Monthly maintainance Charges":"2,500",
+            "lift Repairing charges":"5,240",
+            "Old Due":"1,500",
+            "Total Charges":"9,240",
+            "Receipt":"",
+            "Paid":"",
+            "Time":""
+        }
+
+
+
+
+    ]
+}
